@@ -1,4 +1,4 @@
-# Object Oriented Programming Exercises for Continous Learning
+# Object Oriented Programming Exercises for Continuous Learning
 
 ## Exercises
 
